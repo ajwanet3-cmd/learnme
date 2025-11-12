@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "d4e4fcf26a4bce215aed2eab1c1e8c24"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "94be6a2c7f1ca8df050b5e3753640d2a"
+    },
+    {
+        "path": "best-quran-academy-a-complete-guide-to-choosing-the-right-quran-learning-platform",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-quran-academy-a-complete-guide-to-choosing-the-right-quran-learning-platform/index.html",
+        "type": "file",
+        "md5": "03de2f053d459c6a61b8d142d92f56b0"
+    },
+    {
+        "path": "best-quran-academy-what-to-look-for-and-why-it-matters",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-quran-academy-what-to-look-for-and-why-it-matters/index.html",
+        "type": "file",
+        "md5": "52f128c73de0c9d4f1a345dca1ed7f71"
+    },
+    {
+        "path": "best-quran-academy-your-guide-to-finding-quality-quran-education",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-quran-academy-your-guide-to-finding-quality-quran-education/index.html",
+        "type": "file",
+        "md5": "977e1cb19455b9986d4e10cdff64b35a"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "54024ab62be62b14c568485fe7253cc2"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "41ae126cf4fd07ebdbd0fab9dc0959fe"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "9eef5e500a7d76bdddfd6d733846fc64"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-2.png",
+        "type": "file",
+        "md5": "790051b2e7e7990f7929415bd22c212c"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/download-2-2xl.png",
+        "type": "file",
+        "md5": "a35a1098b90b802a2c5cb6759e8bf7ae"
+    },
+    {
+        "path": "/media/website/responsive/download-2-lg.png",
+        "type": "file",
+        "md5": "a35a1098b90b802a2c5cb6759e8bf7ae"
+    },
+    {
+        "path": "/media/website/responsive/download-2-md.png",
+        "type": "file",
+        "md5": "a35a1098b90b802a2c5cb6759e8bf7ae"
+    },
+    {
+        "path": "/media/website/responsive/download-2-sm.png",
+        "type": "file",
+        "md5": "a35a1098b90b802a2c5cb6759e8bf7ae"
+    },
+    {
+        "path": "/media/website/responsive/download-2-xl.png",
+        "type": "file",
+        "md5": "a35a1098b90b802a2c5cb6759e8bf7ae"
+    },
+    {
+        "path": "/media/website/responsive/download-2-xs.png",
+        "type": "file",
+        "md5": "a35a1098b90b802a2c5cb6759e8bf7ae"
+    },
+    {
+        "path": "quran-lessons-for-my-son-a-complete-guide-to-helping-your-child-learn-the-holy-quran-online",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-lessons-for-my-son-a-complete-guide-to-helping-your-child-learn-the-holy-quran-online/index.html",
+        "type": "file",
+        "md5": "3b590e94ae434015a14e8ccb898cab29"
+    },
+    {
+        "path": "quran-lessons-for-my-son-helping-children-connect-with-the-book-of-allah-from-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-lessons-for-my-son-helping-children-connect-with-the-book-of-allah-from-home/index.html",
+        "type": "file",
+        "md5": "3b2a8b13151cd305d1c19762c486b149"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "756fe473e6d70893e25ab50e5a070cf7"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "e2d9ad4483c34c5c7e4a12293548f042"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "f0d1fa847e3fd3fb161e9518de7a0741"
+    }
+]

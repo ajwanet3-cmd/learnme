@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://learnme.pages.dev/sitemap.xml
